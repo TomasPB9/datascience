@@ -1,0 +1,4 @@
+CREATE DATABASE IF NOT EXISTS DataScience;
+
+-- Delete DB
+DROP DATABASE DataSciece;
